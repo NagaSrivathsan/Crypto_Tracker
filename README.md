@@ -7,7 +7,4 @@ Module used:
 	- Tkinter
 	- datetime
 	- cryptocompare API
-	
-
-![img](https://github.com/Siddharthbadal/Python-Projects/blob/main/cryptotracker/img.png)
 
